@@ -12,4 +12,3 @@ I currently have no contributers but I am looking for some so if you want to hel
 # Updates
 If you want active updates on the bot, then join the discord! 
 https://discord.gg/YqB4fQZ7uc
-Thank You!
